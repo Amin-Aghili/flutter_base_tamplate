@@ -49,15 +49,15 @@ To add support for a new language in the app, follow these steps:
 1. Create a new ARB file:
    - Create a file named app_[language_code].arb (e.g., app_tr.arb for Turkish) in the l10n folder.
    - Add the translated strings in the JSON-like format. Example:
-   ‍‍‍‍‍```bash
-   {
-     "helloWorld": "Merhaba Dünya!",
-     "search": "Ara",
-     "@helloWorld": {
-       "description": "Yeni başlayan programcıların geleneksel selamlaması"
-     }
-   }
-   ```
+      ```bash
+      {
+        "helloWorld": "Merhaba Dünya!",
+        "search": "Ara",
+        "@helloWorld": {
+             "description": "Yeni başlayan programcıların geleneksel selamlaması"
+         }
+      }
+      ```
 2. Run the localization generator:
    - Execute the following command to generate the necessary Dart files for localization:
      ```bash
