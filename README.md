@@ -29,15 +29,15 @@ A modular, production-ready Flutter starter template for rapid app development. 
    ```bash
    cd flutter-base-template
    ```
-4. Make the setup script executable:
+3. Make the setup script executable:
   ```bash
   chmod +x scripts/setup_project.sh
   ```
-6. Run the setup script and follow prompts for app name, company domain, and description:
+4. Run the setup script and follow prompts for app name, company domain, and description:
    ```bash
    ./scripts/setup_project.sh
    ```
-8. Start developing your app:
+5. Start developing your app:
    ```bash
    flutter run
    ```
