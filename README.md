@@ -30,9 +30,9 @@ A modular, production-ready Flutter starter template for rapid app development. 
    cd flutter-base-template
    ```
 3. Make the setup script executable:
-  ```bash
-  chmod +x scripts/setup_project.sh
-  ```
+   ```bash
+   chmod +x scripts/setup_project.sh
+   ```
 4. Run the setup script and follow prompts for app name, company domain, and description:
    ```bash
    ./scripts/setup_project.sh
@@ -49,7 +49,7 @@ To add support for a new language in the app, follow these steps:
 1. Create a new ARB file:
    - Create a file named app_[language_code].arb (e.g., app_tr.arb for Turkish) in the l10n folder.
    - Add the translated strings in the JSON-like format. Example:
-   ‍‍‍‍‍```arb
+   ‍‍‍‍‍```bash
    {
      "helloWorld": "Merhaba Dünya!",
      "search": "Ara",
@@ -64,11 +64,11 @@ To add support for a new language in the app, follow these steps:
      flutter gen-l10n
      ```
 3. Go to lib/screens/main/components/lanuge_selector.dart add new lang Items DropdownMenuTtem :
-   ```dart
+   ```bash
    items: const [
         DropdownMenuItem(
           value: 'en',
           child: Text('English'),
         ),
-   ,,,
+   ```
    
