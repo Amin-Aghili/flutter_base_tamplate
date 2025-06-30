@@ -38,7 +38,7 @@ A modular, production-ready Flutter starter template for rapid app development. 
    ```
 4. Run the setup script and follow prompts for app name, company domain, and description:
    ```bash
-   ./scripts/setup_project.sh
+   source ./scripts/setup_project.sh
    ```
 5. Start developing your app:
    ```bash
@@ -69,8 +69,11 @@ To add support for a new language in the app, follow these steps:
 3. Go to lib/screens/main/components/lanuge_selector.dart add new lang Items DropdownMenuTtem :
    ```bash
    items: const [
+      ...
         DropdownMenuItem(
           value: 'en',
           child: Text('English'),
         ),
+      ...
+   ]
    ```
