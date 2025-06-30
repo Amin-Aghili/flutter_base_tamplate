@@ -1,0 +1,108 @@
+{
+  "language": "Türkçe",
+  "helloWorld": "Merhaba Dünya!",
+  "search": "Ara",
+  "store": "Mağaza",
+  "darkMode": "Karanlık Mod",
+  "dashboard": "Kontrol Paneli",
+  "login": "Giriş Yap",
+  "logout": "Çıkış Yap",
+  "register": "Kayıt Ol",
+  "forgotPassword": "Şifremi Unuttum",
+  "resetPassword": "Şifreyi Sıfırla",
+  "password": "Şifre",
+  "currentPassword": "Mevcut Şifre",
+  "newPassword": "Yeni Şifre",
+  "confirmPassword": "Şifreyi Onayla",
+  "email": "E-posta",
+  "username": "Kullanıcı Adı",
+  "name": "İsim",
+  "address": "Adres",
+  "phone": "Telefon",
+  "country": "Ülke",
+  "city": "Şehir",
+  "state": "Eyalet",
+  "zip": "Posta Kodu",
+  "save": "Kaydet",
+  "update": "Güncelle",
+  "delete": "Sil",
+  "cancel": "İptal",
+  "back": "Geri",
+  "next": "İleri",
+  "previous": "Önceki",
+  "submit": "Gönder",
+  "reset": "Sıfırla",
+  "yes": "Evet",
+  "no": "Hayır",
+  "ok": "Tamam",
+  "error": "Hata",
+  "success": "Başarılı",
+  "warning": "Uyarı",
+  "info": "Bilgi",
+  "loading": "Yükleniyor",
+  "retry": "Tekrar Dene",
+  "retrying": "Tekrar Deneniyor",
+  "failed": "Başarısız",
+  "failedToLoad": "Yüklenemedi",
+  "failedToUpdate": "Güncellenemedi",
+  "failedToDelete": "Silinemedi",
+  "failedToSave": "Kaydedilemedi",
+  "failedToSubmit": "Gönderilemedi",
+  "failedToReset": "Sıfırlanamadı",
+  "failedToLogin": "Giriş yapılamadı",
+  "failedToLogout": "Çıkış yapılamadı",
+  "failedToRegister": "Kayıt olunamadı",
+  "failedToForgotPassword": "Şifre sıfırlama başarısız",
+  "failedToResetPassword": "Şifre sıfırlanamadı",
+  "failedToSendEmail": "E-posta gönderilemedi",
+  "failedToSendSMS": "SMS gönderilemedi",
+  "failedToSendNotification": "Bildirim gönderilemedi",
+  "goRegister": "Hesabınız yok mu?",
+  "goLogin": "Zaten hesabınız var mı?",
+  "orders": "Siparişler",
+  "date": "Tarih",
+  "settings": "Ayarlar",
+  "paymentConfirmation": "Ödeme",
+  "@paymentConfirmation": {
+    "description": "Ödeme onaylama adımı"
+  },
+  "orderPlacement": "Sipariş",
+  "@orderPlacement": {
+    "description": "Siparişin verildiği adım"
+  },
+  "receiving": "Teslim Alma",
+  "@receiving": {
+    "description": "Ürünün teslim alındığı adım"
+  },
+  "shipping": "Kargolama",
+  "@shipping": {
+    "description": "Ürünün kargolandığı adım"
+  },
+  "iranPost": "İran Postası",
+  "@iranPost": {
+    "description": "Ürünün İran Postası ile gönderildiği adım"
+  },
+  "@helloWorld": {
+    "description": "Yeni başlayan programcıların geleneksel selamlaması"
+  },
+  "navigation_dashboard": "Kontrol Paneli",
+  "@navigation_dashboard": {
+    "description": "Kontrol paneli sayfasının başlığı"
+  },
+  "navigation_store": "Mağaza",
+  "@navigation_store": {
+    "description": "Mağaza sayfasının başlığı"
+  },
+  "navigation_pay": "Öde",
+  "@navigation_pay": {
+    "description": "Ödeme sayfasının başlığı"
+  },
+  "navigation_contacts": "İletişim",
+  "@navigation_contacts": {
+    "description": "İletişim sayfasının başlığı"
+  },
+  "navigation_staff": "Personel",
+  "@navigation_staff": {
+    "description": "Personel sayfasının başlığı"
+  }
+}

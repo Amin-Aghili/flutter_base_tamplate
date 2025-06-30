@@ -1,0 +1,108 @@
+{
+  "language": "English",
+  "helloWorld": "Hello World!",
+  "search": "Search",
+  "store": "Store",
+  "darkMode": "Dark Mode",
+  "dashboard": "Dashboard",
+  "login": "Login",
+  "logout": "Logout",
+  "register": "Register",
+  "forgotPassword": "Forgot Password",
+  "resetPassword": "Reset Password",
+  "password": "Password",
+  "currentPassword": "Current Password",
+  "newPassword": "New Password",
+  "confirmPassword": "Confirm Password",
+  "email": "Email",
+  "username": "Username",
+  "name": "Name",
+  "address": "Address",
+  "phone": "Phone",
+  "country": "Country",
+  "city": "City",
+  "state": "State",
+  "zip": "Zip",
+  "save": "Save",
+  "update": "Update",
+  "delete": "Delete",
+  "cancel": "Cancel",
+  "back": "Back",
+  "next": "Next",
+  "previous": "Previous",
+  "submit": "Submit",
+  "reset": "Reset",
+  "yes": "Yes",
+  "no": "No",
+  "ok": "OK",
+  "error": "Error",
+  "success": "Success",
+  "warning": "Warning",
+  "info": "Info",
+  "loading": "Loading",
+  "retry": "Retry",
+  "retrying": "Retrying",
+  "failed": "Failed",
+  "failedToLoad": "Failed to load",
+  "failedToUpdate": "Failed to update",
+  "failedToDelete": "Failed to delete",
+  "failedToSave": "Failed to save",
+  "failedToSubmit": "Failed to submit",
+  "failedToReset": "Failed to reset",
+  "failedToLogin": "Failed to login",
+  "failedToLogout": "Failed to logout",
+  "failedToRegister": "Failed to register",
+  "failedToForgotPassword": "Failed to forgot password",
+  "failedToResetPassword": "Failed to reset password",
+  "failedToSendEmail": "Failed to send email",
+  "failedToSendSMS": "Failed to send SMS",
+  "failedToSendNotification": "Failed to send notification",
+  "goRegister": "Don't have an account?",
+  "goLogin": "Already have an account?",
+  "orders": "Orders",
+  "date": "Date",
+  "settings": "Settings",
+  "paymentConfirmation": "Payment",
+  "@paymentConfirmation": {
+    "description": "The step for confirming the payment"
+  },
+  "orderPlacement": "Order",
+  "@orderPlacement": {
+    "description": "The step where the order is placed"
+  },
+  "receiving": "Receiving",
+  "@receiving": {
+    "description": "The step for receiving the item"
+  },
+  "shipping": "Shipping",
+  "@shipping": {
+    "description": "The step where the item is shipped"
+  },
+  "iranPost": "Iran Post",
+  "@iranPost": {
+    "description": "The step where the item is sent using Iran Post"
+  },
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "navigation_dashboard": "Dashboard",
+  "@navigation_dashboard": {
+    "description": "Title for the dashboard page"
+  },
+  "navigation_store": "Store",
+  "@navigation_store": {
+    "description": "Title for the store page"
+  },
+  "navigation_pay": "Pay",
+  "@navigation_pay": {
+    "description": "Title for the pay page"
+  },
+  "navigation_contacts": "Contacts",
+  "@navigation_contacts": {
+    "description": "Title for the contacts page"
+  },
+  "navigation_staff": "Staff",
+  "@navigation_staff": {
+    "description": "Title for the staff page"
+  }
+}

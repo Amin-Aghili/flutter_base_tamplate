@@ -1,0 +1,108 @@
+{
+  "language": "فارسی",
+  "helloWorld": "سلام دنیا!",
+  "search": "جستجو",
+  "store": "فروشگاه",
+  "darkMode": "حالت تاریک",
+  "dashboard": "داشبورد",
+  "login": "ورود",
+  "logout": "خروج",
+  "register": "ثبت نام",
+  "forgotPassword": "فراموشی رمز عبور",
+  "currentPassword": "رمز فعلی",
+  "newPassword": "رمز جدید",
+  "resetPassword": "بازیابی رمز عبور",
+  "password": "رمز عبور",
+  "confirmPassword": "تکرار رمز عبور",
+  "email": "ایمیل",
+  "username": "نام کاربری",
+  "name": "نام",
+  "address": "آدرس",
+  "phone": "تلفن",
+  "country": "کشور",
+  "city": "شهر",
+  "state": "استان",
+  "zip": "کد پستی",
+  "save": "ذخیره",
+  "update": "بروزرسانی",
+  "delete": "حذف",
+  "cancel": "لغو",
+  "back": "بازگشت",
+  "next": "بعدی",
+  "previous": "قبلی",
+  "submit": "ارسال",
+  "reset": "بازنشانی",
+  "yes": "بله",
+  "no": "خیر",
+  "ok": "باشه",
+  "error": "خطا",
+  "success": "موفقیت",
+  "warning": "هشدار",
+  "info": "اطلاعات",
+  "loading": "در حال بارگذاری",
+  "retry": "تلاش مجدد",
+  "retrying": "در حال تلاش مجدد",
+  "failed": "ناموفق",
+  "failedToLoad": "بارگذاری ناموفق بود",
+  "failedToUpdate": "بروزرسانی ناموفق بود",
+  "failedToDelete": "حذف ناموفق بود",
+  "failedToSave": "ذخیره‌سازی ناموفق بود",
+  "failedToSubmit": "ارسال ناموفق بود",
+  "failedToReset": "بازنشانی ناموفق بود",
+  "failedToLogin": "ورود ناموفق بود",
+  "failedToLogout": "خروج ناموفق بود",
+  "failedToRegister": "ثبت نام ناموفق بود",
+  "failedToForgotPassword": "فراموشی رمز عبور ناموفق بود",
+  "failedToResetPassword": "بازیابی رمز عبور ناموفق بود",
+  "failedToSendEmail": "ارسال ایمیل ناموفق بود",
+  "failedToSendSMS": "ارسال پیامک ناموفق بود",
+  "failedToSendNotification": "ارسال اعلان ناموفق بود",
+  "goRegister": "حساب کاربری ندارید؟",
+  "goLogin": "از قبل حساب کاربری دارید؟",
+  "orders": "سفارشات",
+  "date": "تاریخ",
+  "settings": "تنظیمات",
+  "paymentConfirmation": "تایید پرداخت",
+  "@paymentConfirmation": {
+    "description": "مرحله‌ای برای تایید پرداخت"
+  },
+  "orderPlacement": "ثبت سفارش",
+  "@orderPlacement": {
+    "description": "مرحله‌ای که سفارش ثبت می‌شود"
+  },
+  "receiving": "دریافت",
+  "@receiving": {
+    "description": "مرحله‌ای برای دریافت کالا"
+  },
+  "shipping": "ارسال",
+  "@shipping": {
+    "description": "مرحله‌ای که کالا ارسال می‌شود"
+  },
+  "iranPost": "پست ایران",
+  "@iranPost": {
+    "description": "مرحله‌ای که کالا از طریق پست ایران ارسال می‌شود"
+  },
+  "@helloWorld": {
+    "description": "پیام خوش‌آمدگویی استاندارد برنامه‌نویسان تازه‌کار"
+  },
+  "navigation_dashboard": "داشبورد",
+  "@navigation_dashboard": {
+    "description": "عنوان برای صفحه داشبورد"
+  },
+  "navigation_store": "فروشگاه",
+  "@navigation_store": {
+    "description": "عنوان برای صفحه فروشگاه"
+  },
+  "navigation_pay": "پرداخت",
+  "@navigation_pay": {
+    "description": "عنوان برای صفحه پرداخت"
+  },
+  "navigation_contacts": "مخاطبین",
+  "@navigation_contacts": {
+    "description": "عنوان برای صفحه مخاطبین"
+  },
+  "navigation_staff": "کارمندان",
+  "@navigation_staff": {
+    "description": "عنوان برای صفحه کارمندان"
+    }
+}
