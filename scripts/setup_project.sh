@@ -26,6 +26,15 @@ if [[ ":$PATH:" != *":$HOME/.pub-cache/bin:"* ]]; then
     export PATH="$PATH:$HOME/.pub-cache/bin"
 fi
 
+# change to the parent directory of the current script
+CURRENT_DIR=$(basename "$(pwd)")
+if [ "$CURRENT_DIR" != "$NEW_NAME" ]; then
+    echo "📁 Changing project folder name from $CURRENT_DIR to $NEW_NAME..."
+    mv "../$CURRENT_DIR" "../$NEW_NAME"
+    cd "../$NEW_NAME" || exit 1
+    echo "📁 Moved to new directory: $(pwd)"
+fi
+
 # run rename tool to change app name and bundle ID
 echo " change AppName to: $NEW_NAME"
 rename setAppName --value "$NEW_NAME" --targets $TARGETS

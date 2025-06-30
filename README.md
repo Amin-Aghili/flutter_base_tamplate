@@ -30,7 +30,7 @@ A modular, production-ready Flutter starter template for rapid app development. 
    ```
 2. Navigate to the project directory:
    ```bash
-   cd flutter-base-template
+   cd flutter_base_template
    ```
 3. Make the setup script executable:
    ```bash
