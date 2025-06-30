@@ -26,7 +26,7 @@ A modular, production-ready Flutter starter template for rapid app development. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flutter-base-template.git
+   git clone https://github.com/Amin-Aghili/flutter_base_template.git
    ```
 2. Navigate to the project directory:
    ```bash
