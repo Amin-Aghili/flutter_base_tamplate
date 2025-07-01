@@ -70,3 +70,6 @@ echo " app Name: $NEW_NAME"
 echo " Bundle ID: $NEW_BUNDLE"
 echo " Description: $NEW_DESCRIPTION"
 echo " targets: $TARGETS"
+
+echo "🗑️ Removing setup_project.sh..."
+rm -- "$0" || { echo "❌ Failed to remove setup_project.sh"; exit 1; }
