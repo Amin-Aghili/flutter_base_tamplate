@@ -78,6 +78,7 @@ rm -rf .git
 git init
 git add .
 git commit -m "Initial commit after setup"
+code .
 
 echo "🗑️ Removing setup_project.sh..."
 SCRIPT_PATH="$(realpath "${BASH_SOURCE[0]}")"
