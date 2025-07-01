@@ -28,19 +28,13 @@ A modular, production-ready Flutter starter template for rapid app development. 
    ```bash
    git clone https://github.com/Amin-Aghili/flutter_base_template.git
    ```
-2. Navigate to the project directory:
+2. Navigate to the project directory Make and run the setup script executable :
    ```bash
    cd flutter_base_template
+   chmod +x setup_project.sh
+   source ./setup_project.sh
    ```
-3. Make the setup script executable:
-   ```bash
-   chmod +x scripts/setup_project.sh
-   ```
-4. Run the setup script and follow prompts for app name, company domain, and description:
-   ```bash
-   source ./scripts/setup_project.sh
-   ```
-5. Start developing your app:
+3. Start developing your app:
    ```bash
    flutter run
    ```

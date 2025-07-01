@@ -72,4 +72,9 @@ echo " Description: $NEW_DESCRIPTION"
 echo " targets: $TARGETS"
 
 echo "🗑️ Removing setup_project.sh..."
-rm -- "$0" || { echo "❌ Failed to remove setup_project.sh"; exit 1; }
+SCRIPT_PATH="$(realpath "${BASH_SOURCE[0]}")"
+(
+  sleep 1
+  rm -- "$SCRIPT_PATH"
+) & disown
+echo "✅ Project setup completed successfully!"
