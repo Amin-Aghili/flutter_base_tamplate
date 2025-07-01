@@ -72,6 +72,13 @@ echo " Bundle ID: $NEW_BUNDLE"
 echo " Description: $NEW_DESCRIPTION"
 echo " targets: $TARGETS"
 
+echo "🔄 Resetting Git repository..."
+
+rm -rf .git
+git init
+git add .
+git commit -m "Initial commit after setup"
+
 echo "🗑️ Removing setup_project.sh..."
 SCRIPT_PATH="$(realpath "${BASH_SOURCE[0]}")"
 (

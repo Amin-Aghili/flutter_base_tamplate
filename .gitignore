@@ -46,8 +46,6 @@ app.*.map.json
 .idea/**/gradle.xml
 .idea/**/libraries
 
-rename_flutter_project.sh
-test.sh
 
 # Gradle and Maven with auto-import
 .idea/modules.xml
