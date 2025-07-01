@@ -65,6 +65,7 @@ sed -i "/^android {/a \    namespace = \"$NEW_BUNDLE\"" "$GRADLE_FILE"
 echo "🧹 clean flutter..."
 flutter clean
 flutter pub get
+flutter pub outdated
 
 echo " app Name: $NEW_NAME"
 echo " Bundle ID: $NEW_BUNDLE"
