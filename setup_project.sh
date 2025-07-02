@@ -75,6 +75,8 @@ echo " targets: $TARGETS"
 echo "🔄 Resetting Git repository..."
 
 rm -rf .git
+rm README.md
+rm LICENSE
 git init
 git add .
 git commit -m "Initial commit after setup"
